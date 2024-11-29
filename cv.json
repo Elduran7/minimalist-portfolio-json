@@ -2,11 +2,11 @@
   "basics": {
     "name": "Alvaro!",
     "label": "",
-    "image": "public/fotoCV.jpg",
+    "image": "fotoCV.jpg",
     "email": "alvaro.duranvalor@vedrunasevillasj.es",
     "phone": "+34 609076443",
     "url": "https://brave-river-0447bd31e.4.azurestaticapps.net/",
-    "summary": "",
+    "summary": "Computer science student of multiplatform application development. Lover of the computer market and the different branches it provides. I am currently looking to find a job, even if it is not directly related to my studies.",
     "location": {
       "address": "",
       "postalCode": "06400",
@@ -112,7 +112,7 @@
     ]
   }],
   "awards": [{
-    "title": "Award",
+    "title": "",
     "date": "",
     "awarder": "",
     "summary": ""
@@ -184,7 +184,7 @@
       "name": "",
       "level": "",
       "keywords": [
-        "V", "", ""
+        "", "", ""
       ]
     },
     {
