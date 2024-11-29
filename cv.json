@@ -89,20 +89,20 @@
     }
   ],
   "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
+    "organization": "",
+    "position": "",
+    "url": "",
+    "startDate": "",
+    "endDate": "",
+    "summary": "",
     "highlights": [
-      "Awarded 'Volunteer of the Month'"
+      ""
     ]
   }],
   "education": [{
     "institution": "Sta. Joaquina de Vedruna - Sevilla ",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Software Engineer",
+    "url": "https://vedrunasevilla.org/",
+    "area": "Senior Technician in Multiplatform Application Development",
     "studyType": "Bachelor",
     "startDate": "2023-01-01",
     "endDate": "2024-01-01",
